@@ -1,0 +1,10 @@
+/.circleci/*
+/.git/*
+/.nyc_output/*
+/bin/*
+/client/public/*
+/client/views/*
+/node_modules/*
+/test-angular/*
+/z.Debug/*
+zdebug.js
